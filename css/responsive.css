@@ -620,7 +620,7 @@
         float: left;
         width: 100% !important;
         margin: 0 !important;
-        border-top: 2px solid rgba(120, 122, 147, .5) !important;
+        border-top: 2px solid rgba(68,206,255, .5) !important;
     }
     .sticky-nav .nav > li:last-child {
         border-bottom: 1px solid rgba(255, 255, 255, 0.06);
@@ -666,7 +666,7 @@
         color: #fff;
     }
     .navbar .text-right {
-        background-color: rgba(36, 39, 59, 0.60);
+        background-color: rgba(45,45,45, 0.60);
         clear: both;
         min-height: 0;
         padding: 0;
@@ -746,10 +746,10 @@
         border-radius: 0px;
     }
     .navbar-default .navbar-toggle .icon-bar {
-        background-color: #787A93;
+        background-color: #44ceef;
     }
     .navbar-default .navbar-toggle {
-        background-color: #24273B;
+        background-color: #ffffff;
     }
     .dropdown-toggle.collapsed .fa-angle-down::before {
         content: "\f107";

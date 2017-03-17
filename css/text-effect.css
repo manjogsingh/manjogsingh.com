@@ -55,7 +55,7 @@ Primary style
 }
 
 .personal-name .cd-headline i {
-    color: #F34D58;
+    color: #44ceef;
     margin: 0
 }
 
@@ -340,7 +340,7 @@ xtype
 }
 
 .personal-name .cd-headline.type .cd-words-wrapper::after {
-    background-color: #973846
+    background-color: #27a6e9
 }
 
 .cd-headline.type .cd-words-wrapper.waiting::after {

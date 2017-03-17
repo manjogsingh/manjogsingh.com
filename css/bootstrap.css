@@ -619,7 +619,7 @@ a.text-success:hover {
 }
 
 .text-skills {
-    color: #559689;
+    color: #27a6e9;
 }
 
 a.text-info:hover {
@@ -643,8 +643,8 @@ a.text-danger:hover {
 }
 
 .bg-primary {
-    color: #787A93;
-    background-color: #24273B;
+    color: #202020;
+    background-color: #ffffff;
 }
 
 a.bg-primary:hover {
@@ -4091,7 +4091,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a.active {
-    border-bottom: 2px solid #787A93;
+    border-bottom: 2px solid #44ceef;
 }
 
 .black-bg .navbar-nav > li > a:hover,
