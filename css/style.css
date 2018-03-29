@@ -311,7 +311,7 @@ h6 {
 .section-title {
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 2px;
     padding: 0 0 100px 0;
     color: #44ceef;
@@ -9131,9 +9131,11 @@ thead th.first {
 }
 
 .award-box {
-    border: 1px solid #000;
+    border: 2px solid #44ceef;
     padding: 25px;
-    background-color: #fff
+	background-color: #fff;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .award-box i {
