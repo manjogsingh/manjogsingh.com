@@ -7,8 +7,7 @@
 ***************************************/
 
 /*  scroll down   */
-.scroll-to-down { cursor: url("http://www.themezaa.com/html/h-code/css/images/arrow-down.cur"), default;}
-.scroll-to-down-white { cursor: url("http://www.themezaa.com/html/h-code/css/images/arrow-down-white.cur"), default;}
+
 
 /*  Work */
 figure:hover img { cursor: url("http://www.themezaa.com/html/h-code/css/images/icon-zoom-white.cur"), pointer;}
@@ -31,7 +30,7 @@ zoom-in.mfp-zoom { cursor: url("http://www.themezaa.com/html/h-code/css/images/i
 .mfp-auto-cursor .mfp-content { cursor: url("http://www.themezaa.com/html/h-code/css/images/icon-zoom-out.cur"), default;}
 
 /*owl carousel*/
-.owl-carousel .owl-item{ cursor: url("http://www.themezaa.com/html/h-code/css/images/icon-move.cur"), default;}
+
 .owl-carousel.light-pagination .owl-item{ cursor: url("http://www.themezaa.com/html/h-code/css/images/icon-move-light.cur"), default;}
 
 /* search and cart */
