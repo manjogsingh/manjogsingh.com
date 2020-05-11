@@ -3275,9 +3275,7 @@ footer ul.list-inline li:first-child {
     cursor: url("../images/arrow-down.png"), pointer;
 }
 
-.scroll-to-down-white {
-    cursor: url("../images/arrow-down-white.png"), pointer;
-}
+
 
 .background-slider-text {
     position: absolute;
